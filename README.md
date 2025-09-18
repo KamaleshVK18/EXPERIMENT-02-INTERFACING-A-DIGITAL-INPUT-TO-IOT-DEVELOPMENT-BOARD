@@ -209,7 +209,7 @@ FLASH ON
 ```
 <img width="765" height="968" alt="image" src="https://github.com/user-attachments/assets/050af319-ac47-4f30-94da-9542f081ad52" />
 ```
-FLASH OFF
+OFF
 ```
 <img width="768" height="1003" alt="image" src="https://github.com/user-attachments/assets/9f2045f4-a228-4e83-844c-718b49abf214" />
 
