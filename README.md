@@ -207,9 +207,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 FLASH ON AND OFF
 ```
-<img width="765" height="968" alt="image" src="https://github.com/user-attachments/assets/050af319-ac47-4f30-94da-9542f081ad52" />
-<img width="768" height="1003" alt="image" src="https://github.com/user-attachments/assets/9f2045f4-a228-4e83-844c-718b49abf214" />
-
+![WhatsApp Image 2025-09-15 at 11 20 44_0ddacf06](https://github.com/user-attachments/assets/1f946b9c-1c5a-433e-aba2-ff2e6dc16a5c)
+![WhatsApp Image 2025-09-15 at 11 20 44_1a136ddd](https://github.com/user-attachments/assets/1f1cb5cd-2370-4e30-b699-9c9aa8768a58)
 
 
 ## Result
